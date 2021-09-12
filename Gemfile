@@ -44,7 +44,7 @@ end
 
 group: production do
   gem 'pg', '~> 1.2', '>= 1.2.3'
-  #gem ‘railsfactor_12’, ‘0.0.2’
+  gem ‘railsfactor_12’, ‘0.0.2’
 end
 
 
