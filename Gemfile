@@ -42,10 +42,10 @@ group :development do
   gem 'rack-mini-profiler', '~> 2.0'
 end
 
-group: production do
-  gem 'pg', '~> 1.2', '>= 1.2.3'
-  gem ‘railsfactor_12’, ‘0.0.2’
-end
+#group: production do
+ # gem 'pg', '~> 1.2', '>= 1.2.3'
+  #gem ‘railsfactor_12’, ‘0.0.2’
+#end
 
 
 group :test do
